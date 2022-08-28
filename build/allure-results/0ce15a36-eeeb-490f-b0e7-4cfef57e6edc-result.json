@@ -1,0 +1,107 @@
+{
+  "attachments": [],
+  "description": "",
+  "fullName": "guru.qa.SelenideTest.issueNameCheckTest",
+  "historyId": "e5e2b2f26f0fc02bba63773ffd7f2064",
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:guru.qa.SelenideTest]/[method:issueNameCheckTest()]"
+    },
+    {
+      "name": "host",
+      "value": "alex112233"
+    },
+    {
+      "name": "thread",
+      "value": "7500@alex112233.Test worker(1)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "guru.qa.SelenideTest"
+    },
+    {
+      "name": "testClass",
+      "value": "guru.qa.SelenideTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "issueNameCheckTest"
+    },
+    {
+      "name": "suite",
+      "value": "guru.qa.SelenideTest"
+    }
+  ],
+  "links": [],
+  "name": "issueNameCheckTest()",
+  "parameters": [],
+  "stage": "finished",
+  "start": 1661595458133,
+  "status": "passed",
+  "steps": [
+    {
+      "name": "$(\"open\") https://github.com",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "$(\"webdriver\") create()",
+          "status": "passed",
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1661595458419,
+          "stop": 1661595462638
+        }
+      ],
+      "attachments": [],
+      "parameters": [],
+      "start": 1661595458402,
+      "stop": 1661595463913
+    },
+    {
+      "name": "$(\".header-search-input\") send keys(qa-guru/allure-notifications)",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1661595464002,
+      "stop": 1661595464541
+    },
+    {
+      "name": "$(\".header-search-input\") submit()",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1661595464541,
+      "stop": 1661595465139
+    },
+    {
+      "name": "$(\"a[href='/qa-guru/allure-notifications']\") click()",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1661595465140,
+      "stop": 1661595465283
+    }
+  ],
+  "stop": 1661595465302,
+  "testCaseId": "[engine:junit-jupiter]/[class:guru.qa.SelenideTest]/[method:issueNameCheckTest()]",
+  "testCaseName": "issueNameCheckTest()",
+  "uuid": "0ce15a36-eeeb-490f-b0e7-4cfef57e6edc"
+}

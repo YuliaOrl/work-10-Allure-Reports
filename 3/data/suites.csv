@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Mar 13 14:56:24 GMT 2023","Mon Mar 13 14:56:27 GMT 2023","2796","","guru.qa.LambdaStepsTest","","guru.qa.LambdaStepsTest","lambdaIssueNameCheckTest","lambdaIssueNameCheckTest()",""
+"passed","Mon Mar 13 14:56:27 GMT 2023","Mon Mar 13 14:56:30 GMT 2023","3259","","guru.qa.SelenideTest","","guru.qa.SelenideTest","issueNameCheckTest","issueNameCheckTest()",""
+"passed","Mon Mar 13 14:56:15 GMT 2023","Mon Mar 13 14:56:24 GMT 2023","8602","","guru.qa.AnnotatedStepsTest","","guru.qa.AnnotatedStepsTest","annotatedStepIssueNameCheckTest","annotatedStepIssueNameCheckTest()",""
